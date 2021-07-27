@@ -43,7 +43,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.53ZKbb9K8e0DJtfJBEcJ9a.vercel.app/api/spotify)](https://open.spotify.com/playlist/53ZKbb9K8e0DJtfJBEcJ9a?si=610909fabf0f4e67)
+[![Spotify](https://novatorem-git-master.anirudh-jwala.vercel.app/api/spotify)](https://open.spotify.com/playlist/53ZKbb9K8e0DJtfJBEcJ9a?si=610909fabf0f4e67)
 
 ---
 
