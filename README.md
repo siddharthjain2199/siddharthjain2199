@@ -8,28 +8,6 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies in Java and Php 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play pool and GTA6 🎱.
-
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/53ZKbb9K8e0DJtfJBEcJ9a?si=610909fabf0f4e67)
-
----
-
-<img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=siddharthjain2199&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-### Contact with me 📝
-
-
-[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
-[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
-
-<br />
-
 ---
 
 ### Languages and Tools 🛠 
@@ -57,6 +35,28 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
+
+
+---
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/playlist/53ZKbb9K8e0DJtfJBEcJ9a?si=610909fabf0f4e67)
+
+---
+
+<img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=siddharthjain2199&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+### Contact with me 📝
+
+
+[<img align="left" alt="bilgehangecici | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />][instagram]
+[<img align="left" alt="bilgehangecici | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725281.svg" />][Spotify]
+
+<br />
 
 ---
 
