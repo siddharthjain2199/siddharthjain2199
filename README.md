@@ -59,6 +59,7 @@
      <a href="https://github-readme-stats.vercel.app/api?username=siddharthjain2199&show_icons=true&theme=gotham">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=siddharthjain2199&show_icons=true&theme=gotham" />
     </a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthjain2199&" alt="siddharthjain2199" />
 </div
 
 <br/>
